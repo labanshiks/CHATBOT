@@ -29,6 +29,6 @@ Just define a new `tag`, possible `patterns`, and possible `responses` for the c
 - Go to the standalone-frontend folder and go live with the `base.html`.
 
 ## Note
-The two files should be running simultaneously!!
-Remember to work in a virtual environment.
+-The two files should be running simultaneously!!
+-Remember to work in a virtual environment.
 
