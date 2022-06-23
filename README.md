@@ -30,4 +30,5 @@ Just define a new `tag`, possible `patterns`, and possible `responses` for the c
 
 ## Note
 The two files should be running simultaneously!!
+Remember to work in a virtual environment.
 
